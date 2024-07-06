@@ -1,0 +1,4 @@
+Komp
+Mic
+Mouse
+Keyboard
